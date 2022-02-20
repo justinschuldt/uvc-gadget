@@ -33,6 +33,7 @@ and Robert Baldyga's patchset
         -r <resolution> Select frame resolution:
                 0 = 360p, VGA (640x360)
                 1 = 720p, WXGA (1280x720)
+                2 = 1080p, FHD (1920x1080)
         -s <speed>     Select USB bus speed (b/w 0 and 2)
                 0 = Full Speed (FS)
                 1 = High Speed (HS)
